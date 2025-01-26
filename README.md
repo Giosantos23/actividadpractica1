@@ -8,3 +8,4 @@ Funciones:
 - procesar_buffer(): procesa la entrada y utiliza los punteros para manejar la recarga del búfer, lectura de datos y la extracción de lexemas. 
 
 
+Video funcionalidad: https://youtu.be/ikcd-b3hhvw
